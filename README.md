@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Cassio 👋</h1>
+<h1 align="center">Olá! Eu sou o Cassio 👋😀</h1>
 
 - 🎓 Estudante de Analise e desenvolvimento de sistemas.
 - 💻 Apaixonado por programação, tecnologia e inovação
