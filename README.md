@@ -30,5 +30,5 @@
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/cassio-passos-pereira-3b1aa0192/](https://www.linkedin.com/in/cassio-passos-pereira-3b1aa0192/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cassio-passos-pereira-3b1aa0192/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatocomcassioo@gmail.com)
