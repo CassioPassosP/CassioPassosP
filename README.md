@@ -1,5 +1,5 @@
-<h1 align="center">Opa! Eu sou o Cassio 👋😀</h1>
-<h1 align="center">Sou quem transforma ideias em código, café em produtividade e desafios em soluções 🚀</h1>
+<h1 align="center">Opa! Eu sou o Cassio 👋😀<br>Sou quem transforma ideias em código, café em produtividade e desafios em soluções 🚀</h1>
+
 
 
 - 🎓 Estudante de Analise e desenvolvimento de sistemas.
