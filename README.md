@@ -2,10 +2,10 @@
 
 
 
-- 🎓 Estudante de Analise e desenvolvimento de sistemas.
+- 🎓 Estudante de Analise e desenvolvimento de sistemas
 - 💻 Apaixonado por programação, tecnologia e inovação
 - 🌱 Atualmente estudando JavaScript, Java, Typescript e React 
-- 🚀 Desenvolvendo projetos pessoais e contribuindo no GitHub
+- 🚀 Desenvolvendo projetos pessoais 
 
 ---
 
