@@ -25,8 +25,8 @@
 ### 📊 GitHub Status
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CassioPassosP&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioPassosP&layout=compact&theme=radical" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight)
 </div>
 
 ---
