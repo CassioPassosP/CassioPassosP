@@ -25,8 +25,9 @@
 ### 📊 GitHub Status
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </div>
 
 ---
