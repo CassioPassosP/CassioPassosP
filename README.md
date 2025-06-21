@@ -1,4 +1,4 @@
-<h1 align="center">Opa! Eu sou o Cassio 👋😀<br>Sou quem transforma ideias em código, café em produtividade e desafios em soluções 🚀</h1>
+<h1 align="center">Opa! Eu sou o Cassio 👋<br>Transformo ideias em código, café em produtividade e desafios em soluções 🚀</h1>
 
 
 
