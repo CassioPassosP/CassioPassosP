@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de Analise e desenvolvimento de sistemas
 - 💻 Apaixonado por programação, tecnologia e inovação
-- 🌱 Atualmente estudando JavaScript, Java, React 
+- 🌱 Atualmente estudando JavaScript, Java e React 
 - 🚀 Desenvolvendo projetos pessoais 
 
 ---
