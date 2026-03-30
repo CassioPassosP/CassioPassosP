@@ -17,14 +17,6 @@
 
 ---
 
-### 📊 GitHub Status
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CassioPassosP&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioPassosP&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ### 📫 Como me encontrar:
 
