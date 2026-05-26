@@ -1,36 +1,45 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CE1FF&random=true&width=435&lines=Opa!+Me+chamo+Cassio+%F0%9F%98%81;seja+bem-vindo+ao+meu+perfil+!" alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:112240&height=180&section=header&text=Cassio%20Passos&fontSize=40&fontColor=00FF99&animation=fadeIn"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=%3E+Initializing+Cassio.exe...;%3E+Loading+Java+modules...;%3E+Connecting+Spring+Boot...;%3E+JWT+Authenticated...;%3E+System+Online." />
+
+</div>
+
+---
+
+<h3 align="center">
+  👨‍💻 Estudante de ADS • Full Stack em evolução • Apaixonado por tecnologia
+</h3>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de Analise e Desenvolvimento de Sistemas
-- 💻 Apaixonado por programação, tecnologia e inovação
-- 🌱 Atualmente estudando JavaScript, Java, React e Spring Boot
-- 🚀 Desenvolvendo projetos pessoais e acadêmicos
-- 📚 Sempre buscando aprender novas tecnologias
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* 💻 Focado em desenvolvimento full stack
+* 🌱 Atualmente estudando JavaScript, Java, React e Spring Boot
+* 🚀 Desenvolvendo projetos pessoais e acadêmicos
+* 📚 Sempre buscando evoluir na prática
 
 ---
 
-### 🛠️ Tecnologias e ferramentas que uso
+### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
 
 </div>
 
@@ -38,26 +47,24 @@
 
 ### 📚 Atualmente aprendendo
 
-- 🔐 JWT e autenticação
-- ⚙️ APIs REST com Spring Boot
-- 🗄️ JPA / Hibernate
-- ✅ Boas práticas e arquitetura de software
-- 🧪 Testes e organização de código
+* 🔐 JWT e autenticação
+* ⚙️ APIs REST com Spring Boot
+* 🗄️ JPA / Hibernate
+* 🧪 Testes e organização de código
+* ✅ Boas práticas e arquitetura de software
 
 ---
 
-### 📌 Projetos em destaque
+### 🚀 Projetos em destaque
 
-- 💰 Sistema de Gestão Financeira
-- 📊 Dashboard financeiro em React
-- 🔐 API REST com autenticação JWT
-- 🚀 Projetos focados em prática e evolução constante
+* 💰 Sistema de Gestão Financeira
+* 📊 Dashboard financeiro em React
+* 🔐 API REST com autenticação JWT
+* 🚀 Projetos focados em prática e evolução constante
 
 ---
 
 ### 📊 Estatísticas GitHub
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CassioPassosP&theme=react-dark&hide_border=true&area=true"/>
 
 <div>
   <p align="center">
@@ -69,16 +76,39 @@
 
 ---
 
-### 📫 Como me encontrar
+### 📈 Atividade
 
-<div>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/cassio-passos-pereira" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:contatocomcassioo@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:112240&height=120&section=footer"/>
+
+</div>
+
+
+
+
+
