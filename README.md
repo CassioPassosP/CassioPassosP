@@ -2,10 +2,6 @@
   Opa! Me chamo Cassio 👋
 </h1>
 
-<p align="center">
-  Construindo soluções e evoluindo um código por vez 🚀
-</p>
-
 ---
 
 ### 🚀 Sobre mim
@@ -63,12 +59,12 @@
 
 ### 📊 Estatísticas GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-
+<div>
+  <p align="center">
+<a href="https://github.com/Davstx">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CassioPassosP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CassioPassosP&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </div>
 
 ---
