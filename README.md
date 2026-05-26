@@ -1,6 +1,4 @@
-<h1 align="center">
-  Opa! Me chamo Cassio 👋
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CE1FF&random=true&width=435&lines=Opa!+Me+chamo+Cassio+%F0%9F%98%81;seja+bem-vindo+ao+meu+perfil+!" alt="Typing SVG" /></a>
 
 ### 🚀 Sobre mim
 
