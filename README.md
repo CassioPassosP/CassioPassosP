@@ -2,8 +2,6 @@
   Opa! Me chamo Cassio 👋
 </h1>
 
----
-
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de Analise e Desenvolvimento de Sistemas
