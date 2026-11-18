@@ -31,27 +31,19 @@ Atualmente, direciono meus estudos para o desenvolvimento Backend com Java, cons
 
 **Backend**
 
-\<div>
-\<img src="[https://skillicons.dev/icons?i=java,spring,nodejs,express,python](https://skillicons.dev/icons?i=java,spring,nodejs,express,python)"/>
-\</div>
+\<div> \<img src="[https://skillicons.dev/icons?i=java,spring,nodejs,express,python](https://skillicons.dev/icons?i=java,spring,nodejs,express,python)"/> \</div>
 
 **Frontend**
 
-\<div>
-\<img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind](https://skillicons.dev/icons?i=html,css,js,react,tailwind)"/>
-\</div>
+\<div> \<img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind](https://skillicons.dev/icons?i=html,css,js,react,tailwind)"/> \</div>
 
 **Banco de dados**
 
-\<div>
-\<img src="[https://skillicons.dev/icons?i=postgres,mysql,supabase](https://skillicons.dev/icons?i=postgres,mysql,supabase)"/>
-\</div>
+\<div> \<img src="[https://skillicons.dev/icons?i=postgres,mysql,supabase](https://skillicons.dev/icons?i=postgres,mysql,supabase)"/> \</div>
 
 **Ferramentas e infraestrutura**
 
-\<div>
-\<img src="[https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode](https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode)"/>
-\</div>
+\<div> \<img src="[https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode](https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode)"/> \</div>
 
 ---
 
