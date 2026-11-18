@@ -70,7 +70,7 @@ Atualmente, direciono meus estudos para o desenvolvimento Backend com Java, cons
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
 ### JourneyFlow
 
@@ -79,16 +79,6 @@ Plataforma com foco em gestão e acompanhamento de jornadas, integrando funciona
 **Tecnologias:** Java 21, Spring Boot, PostgreSQL, Gemini API.
 
 🔗 [Repositório no GitHub](https://github.com/CassioPassosP/journeyFlow)
-
-### FinBoost+
-
-Projeto de gestão financeira pessoal, com funcionalidades para controle de receitas, despesas, metas financeiras e visualização de indicadores.
-
-**Tecnologias:** React, Node.js, Express, PostgreSQL.
-
-### Projetos de Engenharia de Software
-
-Desenvolvimento de aplicações utilizando princípios de orientação a objetos, padrões de projeto, APIs REST, organização em camadas e boas práticas de programação.
 
 ---
 
