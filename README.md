@@ -96,11 +96,14 @@ Desenvolvimento de aplicações utilizando princípios de orientação a objetos
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CassioPassosP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api?username=CassioPassosP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CassioPassosP&layout=compact&langs_count=8&theme=algolia"/>
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioPassosP&layout=compact&langs_count=8&theme=algolia"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=CassioPassosP&theme=algolia"/>
+<img width="90%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=CassioPassosP&theme=algolia"/>
 
 </div>
 
@@ -118,4 +121,8 @@ Desenvolvimento de aplicações utilizando princípios de orientação a objetos
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/CassioPassosP
+<a href="https://github.com/CassioPassosP">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
